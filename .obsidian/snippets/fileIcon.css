@@ -1,0 +1,9 @@
+[data-section="system"]:is(:nth-of-type(2), :only-child) {
+	.lucide-arrow-up-right {
+		display: none;
+	}
+	
+	&::before {
+		width: 8px;
+		content: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAh0lEQVQ4T2NkoBAwwllkAuoY8H8Bw2oGBoYQmCAMMCYQtgBiwBKW/wxqKjAx4sCrNyaMPm/OQgw4pfEfJk4KYDS7wTjIDLC6fwbuPHzgmKIJmMbwwuAyAOZMGEB2HTYvrGVgYAjCpggGMOT+M6xhNL8RipLSLFd+gaeH4+E8RMmhKCIHUGwAAFhiSRFeNkfqAAAAEGRlQkcxNTcxRUFEMENEMENFRkIxDEYgsgAAAABJRU5ErkJggg==");
+}

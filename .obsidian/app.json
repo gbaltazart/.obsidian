@@ -1,0 +1,15 @@
+{
+  "vimMode": true,
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "attachmentFolderPath": "./Attachments",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "settingsPopoutWindow": false
+}
