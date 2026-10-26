@@ -33,5 +33,12 @@
   "Editor@@italic-color@@dark": "#707BC2",
   "Editor@@inline-code-normal@@light": "#707BC2",
   "Editor@@inline-code-normal@@dark": "#707BC2",
-  "Editor@@img-center-align": false
+  "Editor@@img-center-align": false,
+  "obsidian-transparent@@preset-mode": "preset-default",
+  "obsidian-transparent@@glass-opacity": 0,
+  "obsidian-transparent@@ui-blur": 30,
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
+  "Components@@new-tab-image-select": "new-tab-image-default",
+  "Components@@new-tab-btn-select": "new-tab-btn-default",
+  "Components@@outline-enhanced": false
 }

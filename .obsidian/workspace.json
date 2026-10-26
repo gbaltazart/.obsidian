@@ -4,82 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "252c186b442e295d",
-        "type": "split",
+        "id": "a3d4e67b87de19b7",
+        "type": "tabs",
         "children": [
           {
-            "id": "98d9dda564e20465",
-            "type": "tabs",
-            "dimension": 50.91991341991342,
-            "children": [
-              {
-                "id": "30b5c903c0638774",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Projects/14. FRO Arc Flash Study/Mobile Substations.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Mobile Substations"
-                }
+            "id": "39c6ad1e1e227e4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/14. FRO Arc Flash Study/~ Shovels and drills.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "2bd8eb1fb74de88b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Logs/2026-08-31.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-08-31"
-                }
-              },
-              {
-                "id": "62675bbb6dcba7cf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Logs/2026-08-24.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "2026-08-24"
-                }
-              }
-            ],
-            "currentTab": 2
+              "icon": "lucide-file",
+              "title": "~ Shovels and drills"
+            }
           },
           {
-            "id": "0f1bc5719b4e9800",
-            "type": "tabs",
-            "dimension": 49.08008658008658,
-            "children": [
-              {
-                "id": "280bbd341c951e7f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Projects/14. FRO Arc Flash Study/Checklist.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Checklist"
-                }
-              }
-            ]
+            "id": "ab0a3d2f5f76485f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/14. FRO Arc Flash Study/~ New Shovels and drills.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "~ New Shovels and drills"
+            }
+          },
+          {
+            "id": "8bf4af21253e5431",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/14. FRO Arc Flash Study/Meeting Notes/2026-10-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-20"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,8 +84,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "250",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -143,9 +114,9 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logs/2026-08-18.md",
+                "file": "Logs/2026-10-21.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -227,14 +198,23 @@
               "icon": "links-coming-in",
               "title": "Backlinks"
             }
+          },
+          {
+            "id": "47cbad3431440133",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 225.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,58 +222,59 @@
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "templater-obsidian:Templater": false
+      "pseudo-mica:Change material": false,
+      "templater-obsidian:Templater": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "62675bbb6dcba7cf",
+  "active": "8bf4af21253e5431",
   "lastOpenFiles": [
-    "Logs/2026-08-31.md",
-    "Logs/2026-08-28.md",
-    "Projects/14. FRO Arc Flash Study/Mobile Substations.md",
-    "Projects/14. FRO Arc Flash Study/Checklist.md",
-    "Projects/14. FRO Arc Flash Study/Attachments/Pasted image 20260828150245.png",
-    "Projects/14. FRO Arc Flash Study/Attachments/Pasted image 20260828150029.png",
-    "Projects/14. FRO Arc Flash Study/Attachments/Pasted image 20260828145938.png",
-    "Projects/14. FRO Arc Flash Study/Attachments/IMG_8218.jpeg",
-    "Projects/14. FRO Arc Flash Study/Attachments/Pasted image 20260828141100.png",
-    "Projects/14. FRO Arc Flash Study/Attachments/IMG_8184.jpeg",
-    "Projects/14. FRO Arc Flash Study/Attachments/Pasted image 20260828102005.png",
-    "Logs/2026-08-27.md",
-    "Projects/14. FRO Arc Flash Study/Attachments/Pasted image 20260827174517.png",
-    "Projects/14. FRO Arc Flash Study/Attachments/Pasted image 20260827172646.png",
-    "Projects/14. FRO Arc Flash Study/Attachments/IMG_8097.jpeg",
-    "Projects/2. Alarm System/aug 26 debugging.md",
-    "Projects/2. Alarm System/Acrylic sourcing/polymer shapes.pdf",
-    "Logs/Reciepts/Digikey Order 1.pdf",
-    "Projects/2. Alarm System/Acrylic sourcing",
-    "Logs/Reciepts/Digikey Order 2.pdf",
-    "Logs/Reciepts",
-    "Logs/Untitled.md",
-    "Logs/2026-08-26.md",
-    "Projects/4. Keycard system/The wall.md",
-    "Logs/2026-08-25.md",
-    "Logs/Attachments/EGL 00.04.120 Arc Flash Study Guidelines Ver 0.1 Jun 30 2022.pdf",
-    "Logs/2026-08-21.md",
-    "Projects/14. FRO Arc Flash Study/FRO Arc Flash Study.md",
-    "Logs/2026-08-20.md",
-    "Logs/2026-08-19.md",
-    "Logs/2026-08-18.md",
-    "Logs/2026-08-17.md",
-    "Logs/2026-08-24.md",
-    "Logs/2026-08-07.md",
-    "Templates/Project.md",
-    "Projects/14. FRO Arc Flash Study/Attachments",
-    "Templates/Daily Notes.md",
-    "Projects/19. Pembina/Pembina.md",
-    "Projects/2. Alarm System/~ Bill of Materials.md",
-    "Documentation/ETAP/Arc Flash Label Printing Guide.md",
-    "Documentation/ETAP/ETAP Power System Study Guide.md",
-    "Documentation/ETAP/ETAP Short Circuit Guide.md",
-    "Projects/2. Alarm System/~ Alarm To Do.md",
-    "Projects/2. Alarm System/Datasheets/54-00166.pdf",
-    "Projects/2. Alarm System/Datasheets/GST25A-spec.pdf",
-    "Projects/2. Alarm System/Datasheets/KEM_A4067_A750.pdf",
+    "Projects/14. FRO Arc Flash Study/~ Shovels and drills.md",
+    "Logs/2026-10-23.md",
+    "Logs/2026-10-22.md",
+    "Logs/2026-10-21.md",
+    "Logs/2026-10-20.md",
+    "Logs/2026-10-19.md",
+    "Logs/2026-10-16.md",
+    "Projects/14. FRO Arc Flash Study/Meeting Notes/2026-10-20.md",
+    "Projects/14. FRO Arc Flash Study/~ New Shovels and drills.md",
+    "Logs/2026-10-15.md",
+    "Projects/14. FRO Arc Flash Study/Meeting Notes/2026-10-20 explanation.pdf",
+    "Documentation/Misc/Attachments/desktop.ini",
+    "Logs/Attachments/Pasted image 20260821152411-WORKSTATION-03.png",
+    "Documentation/SKM/SKM Power System Study Guide-WORKSTATION-03.md",
+    "Documentation/ETAP/ETAP Power System Study Guide-WORKSTATION-03.md",
+    "Projects/Archive/6. Hogbarn/Documentation/PQM Writing Guide-WORKSTATION-03.md",
+    "Logs/~ Index-WORKSTATION-03.md",
+    "Projects/7. Laser Setup/Laser Material Ideas.md",
+    "Projects/7. Laser Setup",
+    "Better understanding power.md",
+    "Projects/14. FRO Arc Flash Study/Meeting Notes/2026-10-20 to do list.pdf",
+    "Logs/2026-09-14.md",
+    "Projects/4. Keycard system/Database/Useful Commands.md",
+    "Logs/2026-09-11.md",
+    "Logs/2026-09-10.md",
+    "Logs/2026-09-09.md",
+    "Logs/2026-09-08.md",
+    "Logs/2026-09-04.md",
+    "Logs/2026-09-03.md",
+    "Logs/2026-09-02.md",
+    "Logs/2026-09-01.md",
+    "Documentation/Misc/Attachments/Screenshot 2026-10-19 160715.png",
+    "Documentation/Misc/Attachments/Screenshot 2026-10-19 160357.png",
+    "Documentation/Misc/Attachments/Screenshot 2026-10-19 160435.png",
+    "Documentation/Misc/Attachments/Pasted image 20261019161744.png",
+    "Documentation/Misc/Attachments",
+    "Attachments/Pasted image 20261009164659.png",
+    "Attachments/Pasted image 20261013165232.png",
+    "Attachments/Pasted image 20261013165208.png",
+    "Attachments/Pasted image 20261013165204.png",
+    "Attachments/Pasted image 20261013164840.png",
+    "Projects/20. Dustin work/Attachments/~$26133 BOM - overall (SymCore crosswalk).xlsx",
+    "Projects/20. Dustin work/Attachments/~$26133-10117_Type06_All_Sizes_BOM_R4.xlsx",
+    "Projects/20. Dustin work/Attachments/26133 BOM - overall (SymCore crosswalk).xlsx",
+    "Projects/20. Dustin work/Attachments/26133-10117_Type06_All_Sizes_BOM_R4.xlsx",
+    "Projects/20. Dustin work/Attachments",
     "Untitled.canvas",
     "Projects/14. FRO Arc Flash Study/Untitled.canvas",
     "Projects/14. FRO Arc Flash Study/Connections.canvas"

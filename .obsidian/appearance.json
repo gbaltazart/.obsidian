@@ -1,7 +1,8 @@
 {
-  "accentColor": "#5cf5ea",
+  "accentColor": "",
   "cssTheme": "Border",
   "enabledCssSnippets": [
     "fileIcon"
-  ]
+  ],
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono"
 }

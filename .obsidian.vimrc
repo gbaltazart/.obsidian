@@ -1,5 +1,5 @@
-map H ^
-map L $
+nmap H ^
+nmap L $
 
 " Syncs Vim yanks directly to the Windows clipboard
 set clipboard=unnamed
